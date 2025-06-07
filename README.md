@@ -1,5 +1,5 @@
 # Days-between-two-dates
-A program to calculate ages in days using datetime module in Python
+A program to calculate ages in days using the datetime module in Python
 
 I built a program that:
 
@@ -23,10 +23,10 @@ This was a great way to explore:
 🔹Type-safe and user-friendly input handling
 
 
-[Click here to view the PY file](https://github.com/JayaraniArunachalam/Exception-Handling-in-Python/blob/main/Day%2010%20Exception%20Handling.py)
+[Click here to view the PY file](https://github.com/JayaraniArunachalam/Days-between-two-dates/blob/main/Day%2011%20%20Calculate%20the%20days%20between%20two%20dates.py)
 
-[OUTPUT SCREEENSHOT](https://github.com/JayaraniArunachalam/Exception-Handling-in-Python/blob/main/Exception%20Handling%20Op.png)
+[OUTPUT SCREEENSHOT](https://github.com/JayaraniArunachalam/Days-between-two-days/blob/main/Calculate%20days%20between%20dates.png)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jayarani-arunachalam-23jun1990/)
 
-This is part of my 30 Days of Python journey with Indian Data Club
+This is part of my 30 Days of Python journey with the Indian Data Club
