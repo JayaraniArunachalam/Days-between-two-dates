@@ -1,4 +1,4 @@
-# Days-between-two-days
+# Days-between-two-dates
 A program to calculate ages in days using datetime module in Python
 
 I built a program that:
